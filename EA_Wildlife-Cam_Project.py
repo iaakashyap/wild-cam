@@ -1,4 +1,4 @@
-# Wildlife camera Project Code
+ # Wildlife camera Project Code
 # Made by Erin and Anika
 # Start Date: 8:48am 3/13/2018 End Date:
 # This project is to make a camera that will take pictures of wildlife.
